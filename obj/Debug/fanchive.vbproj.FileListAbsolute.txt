@@ -1,0 +1,187 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.vbproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.login.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.menu_adm.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.frm_cadastro.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.menu_usuario.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.Resources.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.vbproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.vbproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\fanchive.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\fanchive.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\fanchive.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\fanchive.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\MySqlConnector.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Buffers.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Memory.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\MySqlConnector.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Buffers.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Memory.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\projeto 2º sem\fanchive\obj\Debug\fanchive.vbproj.Up2Date
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\fanchive.exe.config
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\fanchive.exe
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\fanchive.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\fanchive.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\MySqlConnector.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Buffers.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Memory.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\MySqlConnector.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Buffers.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Memory.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.vbproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.login.resources
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.menu_adm.resources
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.frm_cadastro.resources
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.menu_usuario.resources
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.Resources.resources
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.vbproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.vbproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.vbproj.Up2Date
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.exe
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.xml
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.gerenciar_contas.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.vbproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.login.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.menu_adm.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.frm_cadastro.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.menu_usuario.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.gerenciar_contas.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.Resources.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.vbproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.vbproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\fanchive.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\fanchive.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\fanchive.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\fanchive.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\MySqlConnector.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Buffers.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Memory.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\MySqlConnector.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Buffers.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Memory.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\fanchive\obj\Debug\fanchive.vbproj.Up2Date
+C:\Users\maria\Downloads\fanchive\bin\Debug\fanchive.exe.config
+C:\Users\maria\Downloads\fanchive\bin\Debug\fanchive.exe
+C:\Users\maria\Downloads\fanchive\bin\Debug\fanchive.pdb
+C:\Users\maria\Downloads\fanchive\bin\Debug\fanchive.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\MySqlConnector.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Buffers.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Memory.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maria\Downloads\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\MySqlConnector.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Buffers.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Memory.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maria\Downloads\fanchive\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.vbproj.AssemblyReference.cache
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.login.resources
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.menu_adm.resources
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.frm_cadastro.resources
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.menu_usuario.resources
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.gerenciar_contas.resources
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.Resources.resources
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.vbproj.GenerateResource.cache
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.vbproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.vbproj.Up2Date
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.exe
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.xml
+C:\Users\maria\Downloads\fanchive\obj\Debug\fanchive.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\fanchive.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\fanchive.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\fanchive.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\fanchive.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\MySqlConnector.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Buffers.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Memory.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\MySqlConnector.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Buffers.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Memory.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.vbproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.login.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.menu_adm.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.frm_cadastro.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.menu_usuario.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.gerenciar_contas.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.Resources.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.vbproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.vbproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.vbproj.Up2Date
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\fanchive\obj\Debug\fanchive.pdb
